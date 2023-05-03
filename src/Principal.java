@@ -5,7 +5,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 		//Esta es la clase principal de ejecución del proyecto
-		
+		//para la asignatura de ticII
 		
 
 	}
